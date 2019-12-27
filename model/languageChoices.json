@@ -1,0 +1,9 @@
+{
+	"languages": [{
+		"key": "RU",
+		"name": "Русский"
+	}, {
+		"key": "EN",
+		"name": "English"
+	}]
+}

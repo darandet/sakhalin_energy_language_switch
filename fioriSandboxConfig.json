@@ -1,0 +1,9 @@
+{
+	"applications": {},
+	"bootstrapPlugins": {
+		"lang_switch": {
+			"component": "ru.sakhalinenergy.flp.langswitch",
+			"url": "../../../../../"
+		}
+	}
+}
